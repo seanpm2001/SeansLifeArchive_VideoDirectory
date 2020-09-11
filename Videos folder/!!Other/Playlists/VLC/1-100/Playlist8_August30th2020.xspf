@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20(Pacifist%20Run,%20No%20Commentary)%205%20-%20Death%20by%20QUACK-rOp8LcCEzDY.mkv</location>
+			<duration>1627060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20(Pacifist%20Run,%20No%20Commentary)%206%20-%20Jail%20House%20ROCK-Ukt1DvPjNMo.mkv</location>
+			<duration>1570180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20(Pacifist%20Run,%20No%20Commentary)%207%20-%20Secret%20Boss%20and%20Final%20Boss-pWTBkoQ3efw.webm</location>
+			<duration>2484200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>

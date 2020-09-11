@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Ellen%27s%20Fall%20from%20Grace-5KrRqeZbmrs.webm</location>
+			<duration>1102120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Bootlegs/Highlights/[Vinesauce]%20Joel%20-%20Russian%20PS1%20Bootlegs-eUuBMOhiXyM.mkv</location>
+			<duration>857521</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Bootlegs/Highlights/[Vinesauce]%20Joel%20-%20Ripoff%20Mario%20Games%20From%20Hell%20(%20Sega%20Genesis%20)-V2sypRxzmWk.mkv</location>
+			<duration>510540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Bootlegs/Highlights/[Vinesauce]%20Joel%20-%20Christmas%20Bootleg%20&amp;%20Hacked%20Nintendo%20Games-qeFQnjma2b8.mkv</location>
+			<duration>528420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Bootlegs/Highlights/[Vinesauce]%20Joel%20-%20Insane%20Mario%20Bootleg%20Games%20(%20Grand%20Dad%20)-lRgl6K1Qecg.mkv</location>
+			<duration>574740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Bootlegs/Highlights/[Vinesauce]%20Joel%20-%20Brazilian%20Mario%20Bootlegs-IiU9Gid3JW0.mkv</location>
+			<duration>770220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Windows%20Destruction/HIghlights/[Vinesauce]%20Joel%20-%20The%20Desktop%20Stripper%20Story%20(%20Windows%207%20Destruction%20)-CiVtoO65BRY.mkv</location>
+			<duration>166998</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Vinesauce/Joel/Windows%20Destruction/HIghlights/[Vinesauce]%20Joel%20-%20Windows%208%20Destruction-d-vB8qdNSYc.webm</location>
+			<duration>720180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

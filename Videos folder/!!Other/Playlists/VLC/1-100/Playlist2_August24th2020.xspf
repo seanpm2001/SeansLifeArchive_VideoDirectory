@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/iBlast%20Moki%202/iBlastMoki%202%20Moki%20Forest%20%2B%20Bonus-k2VNBYVYQVQ.mkv</location>
+			<duration>396688</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/iBlast%20Moki%202/iBlast%20Moki%202%20Red%20Canyon%20+%20bonus-NjgqZkfY3oQ.mkv</location>
+			<duration>526744</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/iBlast%20Moki%202/iBlast%20Moki%202%20Steam%20City-b5ASWih3SiE.mp4</location>
+			<duration>423649</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/iBlast%20Moki%202/iBlast%20Moki%202%20The%20Pirate%20Bay-V5pifss-TJk.mp4</location>
+			<duration>451791</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%201%20-%20A%20New%20Home-HQY0V2G9gc8.webm</location>
+			<duration>1762381</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%202%20-%20The%20Petting%20That%20Will%20Pierce%20the%20Heavens-lYi-PSE0T2k.webm</location>
+			<duration>1800820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%203%20-%20Exploring%20Snowdin,%20Papyrus%20Fight%20and%20Garage-GFJkkFwwNuk.mkv</location>
+			<duration>1674820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%204%20-%20Papyrus%20Date,%20Waterfall,%20and%20Piano-vKL74AzHjuQ.mkv</location>
+			<duration>1796321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+	</extension>
+</playlist>

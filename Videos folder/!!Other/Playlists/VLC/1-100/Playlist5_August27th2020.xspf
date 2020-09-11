@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20%28Pacifist%20Run%2C%20No%20Commentary%29%201%20-%20Your%20Choices%20Don%27t%20Matter-0ip-DUD8s34.mkv</location>
+			<duration>1255681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20%20(Pacifist%20Run,%20No%20Commentary)%202%20-%20Ralsei%20and%20The%20Lightners-Fkv2V9gvgRE.webm</location>
+			<duration>1331080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>

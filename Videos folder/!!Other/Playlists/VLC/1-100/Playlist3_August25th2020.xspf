@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%204%20-%20Papyrus%20Date,%20Waterfall,%20and%20Piano-vKL74AzHjuQ.mkv</location>
+			<duration>1796321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%205%20-%20Dummy%20Boss,%20Napstablook&#39;s%20House%20and%20Temmie%20Village-JNPINXPWivY.webm</location>
+			<duration>1711800</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%206%20-%20Undyne%20Fight,%20Mettaton%20Quiz%20and%20Cooking%20Show-Y-sEcbtRhzg.webm</location>
+			<duration>1731860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%207%20-The%20Story%20of%20Two%20Men,%20The%20Century,%20and%20Muffet%20Fight-vUgTjnim3lw.webm</location>
+			<duration>1586621</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Undertale/Undertale%20(Pacifist%20Run,%20No%20Commentary)%20Part%208%20-%20MTT%20Hotel,%20Sans,%20and%20Burgerpants,%20Catty%20and%20Bratty-yxOFLpPZ2Oo.mkv</location>
+			<duration>1403681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+				<vlc:option>file-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>

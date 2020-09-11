@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20%20(Pacifist%20Run,%20No%20Commentary)%202%20-%20Ralsei%20and%20The%20Lightners-Fkv2V9gvgRE.webm</location>
+			<duration>1331080</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Oversimplified/Three%20Kingdoms%20-%20OverSimplified-26EivpCPHnQ.mkv</location>
+			<duration>1042740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Deltrarune/Delta%20Rune%20_%20Deltarune%20(Pacifist%20Run,%20No%20Commentary)%203%20-%20CUE%20THE%20FANFARE-9-mgdKWokaw.webm</location>
+			<duration>1308660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
