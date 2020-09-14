@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Drew%20Gooden/Revisiting%20Jake%20Paul&#39;s%20Team%201000%20Scam/Revisiting%20Jake%20Paul&#39;s%20Team%201000%20Scam-hCa_ddzU6w4.mkv</location>
+			<duration>935001</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Drew%20Gooden/Disney%20Movies%20That%20Haven&#39;t%20Aged%20Well/Disney%20Movies%20That%20Haven&#39;t%20Aged%20Well-o1TwluWTnIo.webm</location>
+			<duration>1009161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Drew%20Gooden/The%20Death%20of%20Laugh%20Tracks/The%20Death%20of%20Laugh%20Tracks-0SIIRGgWVb8.webm</location>
+			<duration>1058180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
