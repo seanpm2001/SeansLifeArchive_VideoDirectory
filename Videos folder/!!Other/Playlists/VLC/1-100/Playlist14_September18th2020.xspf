@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/My%20Theory%20About%20Neanderthals-DX0Dg9MxsOg.webm</location>
+			<duration>241040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Tarrare,%20the%20Hungriest%20Man%20in%20History-nYHDj2sB-rc.webm</location>
+			<duration>468880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/The%20Banana%20Republics-QgydTdThoeA.mkv</location>
+			<duration>382524</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Creative%20Weapons%20of%20the%20Medieval%20Era-n1hR9rpvS74.mkv</location>
+			<duration>298440</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Diogenes,%20the%20Publicly-Defecating%20Philosopher--A3IlRATIsI.webm</location>
+			<duration>261260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/World%20War%20II&#39;s%20Unluckiest%20Ship,%20the%20William%20D.%20Porter-zz0PYzzfixY.webm</location>
+			<duration>410460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/How%20to%20Read%20Fire%20Diamonds-k0S37AI2ssA.webm</location>
+			<duration>250260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Joshua%20Norton,%20the%20Only%20United%20States%20Emperor-_QgJKKHJU3Y.webm</location>
+			<duration>420920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/The%20Wild%20World%20of%20Inuit%20Folklore-7s6VfSOuZpQ.mkv</location>
+			<duration>461180</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Tycho%20Brahe%20-%20That%20Happened%20Thursdays-lQnAlfDzl8c.webm</location>
+			<duration>226060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Where%20Religious%20Symbols%20Come%20From%20--%20That%20Happened%20Thursday-ROJf1okNRQE.webm</location>
+			<duration>265480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Why%20It%20Sucked%20to%20Be%20a%20Pirate-ORmUUhh6O-8.mkv</location>
+			<duration>301640</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Fidel%20Castro&#39;s%20Dairy%20Adventures-DF-yBAkLFfw.webm</location>
+			<duration>379320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/South%20Sudan,%20the%20World&#39;s%20Newest%20Country-pKmM1N0MoC4.webm</location>
+			<duration>331100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Why%20Thorium%20rocks%20--%20Science%20Sundays-jjM9E6d42-M.webm</location>
+			<duration>272820</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+	</extension>
+</playlist>
