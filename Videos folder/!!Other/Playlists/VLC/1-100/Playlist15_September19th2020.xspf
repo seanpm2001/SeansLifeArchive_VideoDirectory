@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Mass%20Hysteria%20Throughout%20History-YXy3emGbxHg.mkv</location>
+			<duration>519540</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Timothy%20Dexter%20-%20The%20Dumbest%20Rags-to-Riches%20Story-ChSUvdU_Sbk.mkv</location>
+			<duration>546296</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Plant%20Diseases-LFvaD2d8Vd4.mkv</location>
+			<duration>289040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Obscure%20Obsolete%20Inventions-K_NRBkJtNAI.webm</location>
+			<duration>415920</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Exotic%20Animals%20in%20Ancient%20Rome-5JcZsNxT2BM.webm</location>
+			<duration>271340</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Historical%20Misconceptions%20For%20You%20to%20Bring%20Up%20during%20Family%20Dinner-0zMSMJZc9EA.webm</location>
+			<duration>344200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Weird%20Laws%20from%20Around%20the%20World-X2bu3UjCxj0.mp4</location>
+			<duration>219058</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/The%20Great%20Emu%20War-QOPZQHTNUs0.webm</location>
+			<duration>264740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Daniel%20Dancer,%20History&#39;s%20Biggest%20Cheapskate-jFS9rRTXue8.mkv</location>
+			<duration>475880</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Improbable%20Tales%20of%20Survival-lfGeJHksykI.mkv</location>
+			<duration>440200</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Sam%20O%20Nella%20Academy/Lesser-Known%20Christmas%20Folklore%20Characters-PYY9VLOSLxk.webm</location>
+			<duration>522680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
