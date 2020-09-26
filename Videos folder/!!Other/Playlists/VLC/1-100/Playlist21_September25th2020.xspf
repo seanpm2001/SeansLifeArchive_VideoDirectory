@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/Jingles/All%20jingles%20from%20History%20of%20the%20Entire%20World-nc7A8magTng.mkv</location>
+			<duration>179860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/(bad%20YTP)%20history%20of%20eggs%20and%20atom%20bombs,i%20guess-w9aVH8IBEDA.mkv</location>
+			<duration>423620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20The%20Shit-story%20of%20Japan-1z66gG1_kjI.webm</location>
+			<duration>144220</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20The%20Shit-story%20of%20the%20Entire%20World,%20I%20Guess-wjU9BA68zyU.mkv</location>
+			<duration>164320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20This%20Video%20Has%20NO%20Education%20Value%20I%20Hope%20That&#39;s%20Okay-piRTESFe2Jw.mkv</location>
+			<duration>809100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20history%20of%20dipshit-fizwJtBT28Q.mkv</location>
+			<duration>278760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20history%20of%20the%20lame%20sad%20world,%20i%20guess-6xDs_a2xmuE.mkv</location>
+			<duration>624881</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20history%20of%20the%20rocks,%20i%20guess-lUaP8NhAE1s.mp4</location>
+			<duration>576715</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/history%20of%20the%20entire%20world%20but%20it&#39;s%20a%20ytp,%20i%20guess-LASP0Bj50q8.mkv</location>
+			<duration>418500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/_Video_%20but.../History%20of%20the%20Entire%20world%20but%20everything%20keeps%20dying%20in%20a%20tornado-dCnlOEF-Upk.mkv</location>
+			<duration>1097981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Bill%20Wurtz/YTP/YTP%20-%20history%20of%20dipshit-fizwJtBT28Q.mkv</location>
+			<duration>278760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+	</extension>
+</playlist>
