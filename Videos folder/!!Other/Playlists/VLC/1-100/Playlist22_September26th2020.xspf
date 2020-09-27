@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/CS188/[YTP]%20IT&#39;S%20ALL%20RIGHT%20HERE%20AT%20YOUR%20FINGERTITS-Y7WtkdLQ6PM.webm</location>
+			<duration>466020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/CS188/[YTP]%20National%20Giraffeic%20Teaches%20You%20Slnimals-mh6aM8uhrEI.mkv</location>
+			<duration>221020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/CS188/[YTP]%20Flextits%20Makes%20You%20Super%20Wet%20and%20Completely%20Dry-uBKdbbQBEJw.mkv</location>
+			<duration>218040</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
