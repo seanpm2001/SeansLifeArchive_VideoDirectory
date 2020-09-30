@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/GulfWar/Desert%20storm%20gulf%20war%20first%20night%20bombing%20baghdad%2017-1-1991%20-%20.mp4</location>
+			<duration>780098</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/With%20Commentary/The%20Science%20Elf/Videos1-74/Battle%20of%20the%20Browsers%20(Part%201)-80wh_-7c4TU.mkv</location>
+			<duration>315100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/With%20Commentary/The%20Science%20Elf/Videos1-74/Project%20-%20Copland-efGUcRJm690.mkv</location>
+			<duration>374420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/With%20Commentary/The%20Science%20Elf/Videos1-74/The%20Rise%20and%20Fall%20of%20Club%20Penguin-g9vCVGLMPl4.mkv</location>
+			<duration>328051</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/With%20Commentary/The%20Science%20Elf/Videos1-74/The%20Rise%20and%20Fall%20of%20Java-HEdPX8pt_DQ.webm</location>
+			<duration>637121</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/With%20Commentary/The%20Science%20Elf/Videos1-74/The%20Story%20Behind%20Windows%20Vista-MKCO3XMOUYY.webm</location>
+			<duration>358780</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
