@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Sonic/Sonic%20Mania/Longplay/Switch%20Longplay%20[008]%20Sonic%20Mania%20Plus%20(Part%201%20of%203)%20Sonic%20and%20Tails-tPzt9hnc9zQ.mkv</location>
+			<duration>11623620</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Mario/NSMB_DS/Bosses/New%20Super%20Mario%20Bros.%20DS%20-%20All%20Bosses%20(No%20Damage)-cAEqIoksIbA.mkv</location>
+			<duration>667860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
