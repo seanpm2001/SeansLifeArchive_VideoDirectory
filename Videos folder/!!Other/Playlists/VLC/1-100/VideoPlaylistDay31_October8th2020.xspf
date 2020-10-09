@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Mario/NSMB_Wii/Bosses/New%20Super%20Mario%20Bros.%20Wii%20-%20All%20Bosses-O1fYOCITRi0.mkv</location>
+			<duration>1827341</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Plants%20vs.%20zombies/Mods/Hard%20Mode/Plants%20Vs.%20Zombies%20-%20HARD%20MODE%20Mod!%20(PvZ%20Plus)-7-rfrB4WXSE.mkv</location>
+			<duration>613700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Plants%20vs.%20zombies/Mods/Hard%20Mode/Beating%20the%20PvZ%20HARD%20MODE%20mod...%20(Plants%20Vs.%20Zombies%20Plus%20Part%202)-FzsPNiAXFo4.mkv</location>
+			<duration>723041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Sonic/Sonic%20CD/Longplay/Sonic%20the%20Hedgehog%20CD%20(US)%20playthrough%20~Longplay~-Ks6DsbJXaVA.mkv</location>
+			<duration>2829261</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Sonic/Sonic%20CD/Longplay/Sonic%20the%20Hedgehog%20CD%20(JP)%20playthrough%20~Longplay~-FBPl-69Jnbg.mkv</location>
+			<duration>2952941</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
