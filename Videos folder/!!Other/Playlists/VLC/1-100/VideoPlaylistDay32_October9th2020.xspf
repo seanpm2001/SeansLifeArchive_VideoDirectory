@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Modern%20Day/Plants%20vs%20Zombies%202%20-%20Modern%20Day%20-%20Day%2010%20-%20Modern%20Future-7tvcbxnT0Xg.mkv</location>
+			<duration>404120</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Modern%20Day/Plants%20vs%20Zombies%202%20-%20Modern%20Day%20-%20Day%2016%20-%20Ultimate%20Battle-aZPEn03-YIA.mkv</location>
+			<duration>700321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
