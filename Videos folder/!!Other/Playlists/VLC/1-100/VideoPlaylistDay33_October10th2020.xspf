@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%203%20-%20Grapeshot-de1YCW-0xb8.mkv</location>
+			<duration>242680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%204%20-%20Useful%20Blover-N5f443TKooY.mkv</location>
+			<duration>470660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%205%20-%20Primal%20Wall-nut%20and%20Jurassic%20Imp-gdx-2Q_1lR0.mkv</location>
+			<duration>468260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%206%20-%20Stegosaurus-_wflfict_XU.mkv</location>
+			<duration>421760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%207%20-%20Don&#39;t%20Trample%20the%20Flowers-Vb5nVfg-i84.mkv</location>
+			<duration>265680</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%208%20-%20Perfume-shroom-dpFVL_Px7Go.mkv</location>
+			<duration>423960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%209%20-%20Pterodactyls-chGDdpyGcac.mkv</location>
+			<duration>525860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2010-SfPgHOT7cEo.mkv</location>
+			<duration>390260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2011-G7zOmW3ocPc.mkv</location>
+			<duration>555481</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2023%20-%20Primal%20Potato%20Mine-MM7SWHX1IfY.mkv</location>
+			<duration>395480</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2027%20-%20Last%20Stand%20II-C4qEh7-yCrI.mkv</location>
+			<duration>245160</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2027%20Replay%20-%20Another%20Strategy-VkGy_VpNRFQ.mkv</location>
+			<duration>236960</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2036%20-%20Amberhead%20Zombie%20_%20Electric%20Peashooter%20+%20Torchwood-KYyy7EVU2mo.mkv</location>
+			<duration>724161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Jurassic%20Marsh/Plants%20vs%20Zombies%202%20-%20Jurassic%20Marsh%20Day%2042%20-%202nd%20Zomboss%20-%20Zombot%20Dinotronic%20Mechasaur%202.0-UNKPe0OOnic.mkv</location>
+			<duration>879161</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+	</extension>
+</playlist>
