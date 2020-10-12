@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Pirate%20Seas/Plants%20vs%20Zombies%202%20-%20Pirate%20Seas%20Day%2021%20to%20Day%2025-PWj0GSjeOxE.mkv</location>
+			<duration>1302760</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Far%20Future/Plants%20vs%20Zombies%202%20-%20Far%20Future%20Day%201%20to%20Day%205-OZCtd3-RLNU.mkv</location>
+			<duration>1162260</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Far%20Future/Plants%20vs%20Zombies%202%20-%20Far%20Future%20Day%2028%20-%20Holo%20Head%20Zombie%20_%20Caulipower%20Epic%20Quest%20Step%203-Q9lidmMbb6s.mkv</location>
+			<duration>443060</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Far%20Future/Plants%20vs%20Zombies%202%20-%20Far%20Future%20Day%2034%20-%20Tic%20Tac%20Toe%20_%20Caulipower%20Epic%20Quest%20Step%209-Rq8t5hVvcf8.mkv</location>
+			<duration>523320</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Memes/1/Peppa%20Pig%20Haram/Hi%20I%E2%80%99m%20Peppa%20Pig-Rv-Yz4RxSZE.mp4</location>
+			<duration>12330</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+	</extension>
+</playlist>
