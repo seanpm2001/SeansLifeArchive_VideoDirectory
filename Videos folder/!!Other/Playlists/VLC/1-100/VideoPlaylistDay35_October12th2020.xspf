@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Frostbite%20Caves/Plants%20vs%20Zombies%202%20-%20Frostbite%20Caves%20Day%204%20to%20Day%206-fJzzSr3k3ME.mkv</location>
+			<duration>822681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Frostbite%20Caves/Plants%20vs%20Zombies%202%20-%20Frostbite%20Caves%20Day%207%20to%20Day%209-JNgyDlo2yTg.mkv</location>
+			<duration>779961</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
