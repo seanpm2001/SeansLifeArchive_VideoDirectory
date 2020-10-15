@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Wild%20West/Plants%20vs%20Zombies%202%20-%20Wild%20West%20Day%201%20to%20Day%205-GXaF4-X-c-s.mkv</location>
+			<duration>1174020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/No%20commentary/Ginta%20Gaming/Plants%20vs.%20Zombies%202/Big%20Wave%20Beach/Plants%20vs%20Zombies%202%20-%20Big%20Wave%20Beach%20Day%201%20to%20Day%202-xE-vrly_GSs.mkv</location>
+			<duration>609201</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+	</extension>
+</playlist>
