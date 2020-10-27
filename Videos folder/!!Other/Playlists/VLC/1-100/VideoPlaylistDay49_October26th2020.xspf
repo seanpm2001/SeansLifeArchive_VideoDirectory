@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2013%20No%20Commentary-I4yJS88q-Sg.mkv</location>
+			<duration>1391521</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/DrMario_PuzzleLeague_GBA/Puzzle%20League/Puzzle%20League%20(2005)%20[Game%20Boy%20Advance]-5wqQQr_ymfg.mkv</location>
+			<duration>3991240</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/DrMario_PuzzleLeague_GBA/Dr.%20Mario/Dr.%20Mario%20GBA%20Level%201-10%20Speedrun%20(12_18)-FkEw8tJfzrQ.mkv</location>
+			<duration>788401</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
