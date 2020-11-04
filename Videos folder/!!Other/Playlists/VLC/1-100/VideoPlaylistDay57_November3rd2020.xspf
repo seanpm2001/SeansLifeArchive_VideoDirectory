@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/With%20commentary/RTGame/Minecraft/I%20asked%20300%20Minecraft%20Players%20to%20build%20a%20New%20Russia-UuFzdy3Kk5w.mkv</location>
+			<duration>2199740</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/With%20commentary/RTGame/Minecraft/I%20trapped%20200%20Minecraft%20Players%20inside%20a%20Cube%20of%20Bedrock-GwS5k_tJ-zw.mkv</location>
+			<duration>611860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/With%20commentary/RTGame/Minecraft/Enslaving%20100%20Minecraft%20Players%20and%20forcing%20them%20to%20build%20Santa&#39;s%20Amazon%20Warehouse-1_qro_HQR94.mkv</location>
+			<duration>708460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
