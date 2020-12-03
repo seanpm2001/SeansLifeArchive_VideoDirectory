@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Animation%20channels/Meatcanyon/I%20saved%20a%20human%20life%20challenge/I%20SAVED%20A%20HUMAN%20LIFE%20-%20CHALLENGE-n-tQXZCEi54.mkv</location>
+			<duration>163100</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Animation%20channels/Filmcow/Llamas%20with%20hats/Llamas%20with%20Hats%201-12%20-%20The%20Complete%20Series-jJOwdrTA8Gw.mkv</location>
+			<duration>1108321</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Animation%20channels/Other/4096/Blank%20VHS%20covers%20were%20kinda%20beautiful/blank%20vhs%20covers%20were%20kinda%20beautiful-e9DfSCk-6Ko.webm</location>
+			<duration>102041</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
