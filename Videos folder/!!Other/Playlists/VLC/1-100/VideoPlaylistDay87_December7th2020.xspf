@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2030%20No%20Commentary-5PVlHPC2wyo.mkv</location>
+			<duration>979860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2031%20No%20Commentary-GAgQ-ZFsYfU.mkv</location>
+			<duration>1155460</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2032%20No%20Commentary-vLTkISPKgj8.mkv</location>
+			<duration>1152241</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
