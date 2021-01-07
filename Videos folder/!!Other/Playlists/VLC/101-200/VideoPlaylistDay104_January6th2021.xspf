@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Oversimplified/The%20French%20Revolution%20-%20OverSimplified%20(Part%201)-8qRZcXIODNU.mkv</location>
+			<duration>1073660</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Oversimplified/The%20French%20Revolution%20-%20OverSimplified%20(Part%202)-EQmjXM4VK2U.mkv</location>
+			<duration>1331761</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2049%20No%20Commentary-sOvO_jyefk4.mkv</location>
+			<duration>745700</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Gaming/Playthroughs/Nintendo/Animal%20Crossing%20GameCube%20(2001)/Zachary%20Strong/Animal%20Crossing%20Part%2050%20No%20Commentary-lIkJk_XM3CA.mkv</location>
+			<duration>963500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>
