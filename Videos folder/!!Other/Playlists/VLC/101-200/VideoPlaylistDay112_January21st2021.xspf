@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/Analyzing%20the%20&#39;NTFS%20corruption&#39;%20bug-PtHTqmp-Jt8.webm</location>
+			<duration>534300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/What%20is%20_System%20Volume%20Information_%20Should%20I%20DELETE%20it-2uaiLJ2ZLxk.webm</location>
+			<duration>327420</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/CORRUPTING%20&amp;%20FAKING%20Recycle%20Bin-LtUuCNrjKYM.webm</location>
+			<duration>673201</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
