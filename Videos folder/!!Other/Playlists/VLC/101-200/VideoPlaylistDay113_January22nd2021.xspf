@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/Inside%20Windows%20Shortcuts%20(LNK%20Files)%20[Part%201]-ie1bmLymrQU.mkv</location>
+			<duration>525940</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/Windows%20Shortcut%20Weirdness%20(LNK%20Files)%20[Part%202]-cHZOhgCHel8.mkv</location>
+			<duration>637921</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/YouTube/Technical%20Channels/No%20Commentary/FlyTech%20Videos/Hall%20of%20Tortured%20Souls%20-%20Speedrun%20Challenge%20[VOICED]-T9tof_Ey8hI.webm</location>
+			<duration>640681</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+	</extension>
+</playlist>
