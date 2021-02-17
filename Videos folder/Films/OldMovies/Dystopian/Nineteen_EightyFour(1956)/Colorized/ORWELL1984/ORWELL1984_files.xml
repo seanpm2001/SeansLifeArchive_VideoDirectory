@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="ORWELL 1984.avi" source="original">
+    <mtime>1486014393</mtime>
+    <size>942385152</size>
+    <md5>a7c7eab83992e343e71444dd1c24bf6b</md5>
+    <crc32>98bedc01</crc32>
+    <sha1>bd62ced8af40653038bba326f923ae7f626a1b7f</sha1>
+    <format>Cinepack</format>
+    <length>6629.74</length>
+    <height>368</height>
+    <width>672</width>
+  </file>
+  <file name="ORWELL 1984.mp4" source="derivative">
+    <format>h.264</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486046155</mtime>
+    <size>687635840</size>
+    <md5>be0b19944ed76e8c807977392ce6a405</md5>
+    <crc32>ecf005c1</crc32>
+    <sha1>9077e003654a897887bd95b4ce9a760953b34f8a</sha1>
+    <length>6629.78</length>
+    <height>360</height>
+    <width>657</width>
+  </file>
+  <file name="ORWELL 1984.ogv" source="derivative">
+    <format>Ogg Video</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486064789</mtime>
+    <size>493408159</size>
+    <md5>bc3b46b7181503863285bf30f6c80c50</md5>
+    <crc32>ee43bda9</crc32>
+    <sha1>67f318a90159235501686197d5fcbdb63dd27510</sha1>
+    <length>6629.75</length>
+    <height>300</height>
+    <width>548</width>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000001.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019677</mtime>
+    <size>4062</size>
+    <md5>a43a2b831a89e7868f327ba3814624a9</md5>
+    <crc32>02c7094f</crc32>
+    <sha1>a6c7ff1ea019c57574d0fe843a539f7c13a7db02</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019730</mtime>
+    <size>3894</size>
+    <md5>ebbf2e27fc79063a8483aed356d3534e</md5>
+    <crc32>deb8c375</crc32>
+    <sha1>3c264c4996621db8accab45ad3e187ef3d73502d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019769</mtime>
+    <size>3869</size>
+    <md5>1e0871c503ea5f36893e4f74e25c0557</md5>
+    <crc32>a4055292</crc32>
+    <sha1>cda6ca3ed94573d491310e7e484f22e2e36d683f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019806</mtime>
+    <size>4126</size>
+    <md5>22c0debae09b7ca52bbe2395bfd429ff</md5>
+    <crc32>579f6d75</crc32>
+    <sha1>a6ceb02c3d4ab66326a4b7e8c1bbb90897267ef8</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019842</mtime>
+    <size>6459</size>
+    <md5>08987ee236836c7307aa548802461d9f</md5>
+    <crc32>91309cca</crc32>
+    <sha1>8bf040e65f78fa76cf0b02a5f87b3de583e91e4c</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019882</mtime>
+    <size>4833</size>
+    <md5>dcc9cd3e3fc351b3616b04f56b0c6cda</md5>
+    <crc32>e390a875</crc32>
+    <sha1>18ccd5faa4f603a2e345635f4d9b63134d383f0e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019920</mtime>
+    <size>4011</size>
+    <md5>7ea5fc2d4e6b50b19642399362a70878</md5>
+    <crc32>ac97c91a</crc32>
+    <sha1>5f9db945d8006012e476b703dd710bae1fd58551</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019956</mtime>
+    <size>3107</size>
+    <md5>780ad1f928d21e797e3126170d4aa514</md5>
+    <crc32>63370b3c</crc32>
+    <sha1>ec59d01c7f28d4dd098aeb0290a9bdc56449dbca</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486019994</mtime>
+    <size>3746</size>
+    <md5>9f9d53facde75662e132e3fd94a4fc74</md5>
+    <crc32>e862b51f</crc32>
+    <sha1>31c5bceabe067b2bb1ce08d6955442cc3c7c6f42</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020033</mtime>
+    <size>2814</size>
+    <md5>527f53af8762472cec77edb26a7cb3c9</md5>
+    <crc32>08be8671</crc32>
+    <sha1>af15d3ab306d88149de0b9b0ec6d58fe744fc90e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020070</mtime>
+    <size>4273</size>
+    <md5>a43cf69589629a8df906151076946f75</md5>
+    <crc32>16aca3ee</crc32>
+    <sha1>4a1aa105edbc8035c8d5b4ed78b7b9ffa0eb2ef5</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020107</mtime>
+    <size>3948</size>
+    <md5>fea697811e2e14293f820262aec0f638</md5>
+    <crc32>f91c265e</crc32>
+    <sha1>52c8ef24b7f2cb9e2fb53f367ff6d7495ffca0ae</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020142</mtime>
+    <size>5355</size>
+    <md5>fbcc4be3dc9bf3f3289d674007dfa6d5</md5>
+    <crc32>f638bca0</crc32>
+    <sha1>ad9e930741eda772ff624b69dcccfd3ad47f8181</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020182</mtime>
+    <size>3756</size>
+    <md5>e09bdaf152b74927646c252eae87c983</md5>
+    <crc32>fab8daee</crc32>
+    <sha1>3e9e24f1fafb82a6934a35b30e21466deb28b9ad</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020217</mtime>
+    <size>5505</size>
+    <md5>aa6121b02761dc81341a0c0a20f76ab1</md5>
+    <crc32>9e6fb581</crc32>
+    <sha1>7d29edd9f447596244b4c14cd39b5af194a79fc0</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_000954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020256</mtime>
+    <size>4497</size>
+    <md5>02217f8ba79786d8b7868592991d657f</md5>
+    <crc32>5ad597ec</crc32>
+    <sha1>3b69d557f2d123d169f3a6304b09b307d48334ed</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020296</mtime>
+    <size>3482</size>
+    <md5>e9ab3749dec04a08b824445ac192cd5d</md5>
+    <crc32>091df410</crc32>
+    <sha1>1edfb011084c822b51c4ef90736f4416c992a4c0</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020334</mtime>
+    <size>4341</size>
+    <md5>0dd23e804dfa8f14769b973d2f4ae25d</md5>
+    <crc32>134aac12</crc32>
+    <sha1>467dfbd93972253f4a244c076f09a24e43efbb48</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020374</mtime>
+    <size>3879</size>
+    <md5>8d698f90073696314f658b364d26c048</md5>
+    <crc32>527acab0</crc32>
+    <sha1>4739b2c36aa59cae056041aac221e39da2de7402</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020412</mtime>
+    <size>4205</size>
+    <md5>8b7478699d9641d19f36749446e92f93</md5>
+    <crc32>461d7759</crc32>
+    <sha1>d9cc61bb469fe3f1d47b19e11e515a24536bbd77</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020451</mtime>
+    <size>4367</size>
+    <md5>9ffe71a379504e436270b22fcd07738b</md5>
+    <crc32>1eb4ef78</crc32>
+    <sha1>79a39ab62d4ef1284df9d6c1650767a4123c55f5</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020489</mtime>
+    <size>5686</size>
+    <md5>7cc7ca3fc50c6fd2ab6e0fc11c80ad48</md5>
+    <crc32>6963280b</crc32>
+    <sha1>371ade6e04686e95cc58d264f3629117af80e44f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020529</mtime>
+    <size>3400</size>
+    <md5>59b43858b3f8f40db020bee64a693da3</md5>
+    <crc32>a83f6b33</crc32>
+    <sha1>4fad941eb06333ed371a7cc783931c0f409d3978</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020566</mtime>
+    <size>4407</size>
+    <md5>aba80a6ef2a57aaefe7f0e2d3601b561</md5>
+    <crc32>675200a7</crc32>
+    <sha1>92b8a531ae3b2d68252e305bb001df4a3c5f02c3</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020601</mtime>
+    <size>4306</size>
+    <md5>b425461f30485b0ec551e357a3ee5a76</md5>
+    <crc32>e6ec88ba</crc32>
+    <sha1>cc1e655d1fd2f4994baf61caebda99a8ab552025</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020640</mtime>
+    <size>2247</size>
+    <md5>d89b2e2a3262bf7f6a78e45c08a80c3b</md5>
+    <crc32>0022157f</crc32>
+    <sha1>4db81be78c8e548d27a114e120717a6f338a8478</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020675</mtime>
+    <size>4241</size>
+    <md5>3a3b09fcf687b307a63aedbc1053a918</md5>
+    <crc32>04359bc8</crc32>
+    <sha1>48351977a6353dca4d87e77843a68a0766bb8d94</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020712</mtime>
+    <size>3840</size>
+    <md5>6dffc537c72321a48fe5869503fd3a42</md5>
+    <crc32>3fe7bfa6</crc32>
+    <sha1>8305f6802b6e2162e24f62fdb5c0f7ea695d1eab</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020752</mtime>
+    <size>4653</size>
+    <md5>1b484b50ffe63c42c12ec39c05bdfad0</md5>
+    <crc32>8e2e3c98</crc32>
+    <sha1>4448a3e37b91f66d387c00b0b43329fe4a1f0921</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020791</mtime>
+    <size>3476</size>
+    <md5>996ae0c31fa815698b8b814563a38bc9</md5>
+    <crc32>0bd67b2b</crc32>
+    <sha1>589b87c672ec8cf3709e48fc16765c9afef18918</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020831</mtime>
+    <size>4947</size>
+    <md5>21cc910078ae944a386e25a195dc80fc</md5>
+    <crc32>7012da75</crc32>
+    <sha1>9367be2010356c4191da09fe2e62036225abefe3</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020868</mtime>
+    <size>4847</size>
+    <md5>764b8691b95c67738e3317820f8f71ed</md5>
+    <crc32>64800a80</crc32>
+    <sha1>81d3dc52779f18c9e0ce0cdab1054c5ad8ca9a28</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_001974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020908</mtime>
+    <size>3173</size>
+    <md5>381642ff4d4550cad203cc72f9766bcf</md5>
+    <crc32>53c06cb0</crc32>
+    <sha1>39022b86c892d97b8a10586b4ec96ebd4c618112</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020947</mtime>
+    <size>5298</size>
+    <md5>3260af97ddbf14f7c13b2f41102373c4</md5>
+    <crc32>0347bc79</crc32>
+    <sha1>93cf53b674d6310dd750ebf07fc2ffd2bf770b6d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486020987</mtime>
+    <size>3954</size>
+    <md5>3b1dd7376a647212e533664979bf52a2</md5>
+    <crc32>869ddfb8</crc32>
+    <sha1>75388aa6b2d7f0d1e3416a553dea48b1585f3b69</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021026</mtime>
+    <size>6001</size>
+    <md5>eaf6d864ba5250843f87952cf215cc00</md5>
+    <crc32>455c30d7</crc32>
+    <sha1>ebe52149b8563cf80ea193de8e8088761061e18f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021071</mtime>
+    <size>6611</size>
+    <md5>288a2ef135e1777f49e223f92ee018c9</md5>
+    <crc32>aef54c1d</crc32>
+    <sha1>fd438f782024af6fa613daf22abc1c8455b4ac7f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021110</mtime>
+    <size>6479</size>
+    <md5>03ece7e986e26e413df6f7af890ae384</md5>
+    <crc32>b5012fc6</crc32>
+    <sha1>a6b967ae6ca8d620235508b911ebef1141eea96f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021149</mtime>
+    <size>5349</size>
+    <md5>cf013e7cb06c1c53894631ea5417f496</md5>
+    <crc32>ec076e08</crc32>
+    <sha1>2ed9c1f475176e42e505f4405c677dffe846e4b9</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021187</mtime>
+    <size>3136</size>
+    <md5>73a032608eec2eced95b6a37ee5f978b</md5>
+    <crc32>5e73c09e</crc32>
+    <sha1>ba318aec3bfedb64c5b1a3c7aa8df5e78664ddec</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021226</mtime>
+    <size>6218</size>
+    <md5>e2e671fd2524fc6fa1a58d652f18f958</md5>
+    <crc32>d7a9ad98</crc32>
+    <sha1>9e915d4b5972be9bc4365c91929f25f29d72df4b</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021269</mtime>
+    <size>4843</size>
+    <md5>5c33c061ad2dd7d71801436f6bd9aef4</md5>
+    <crc32>2ed9c883</crc32>
+    <sha1>ee12c8b870ec972992e6f4a89861f79ea9130fb8</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021311</mtime>
+    <size>3703</size>
+    <md5>df6628440d6399c71936818a898b0f23</md5>
+    <crc32>a5a3f09a</crc32>
+    <sha1>4662fafb395c4d761f63843704c2a561944994ed</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021347</mtime>
+    <size>3910</size>
+    <md5>f8a931be8b716a231b55b04a6c356713</md5>
+    <crc32>b54ae050</crc32>
+    <sha1>fe14d3cb993c687b80c30688775ac9f3fb1a951e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021388</mtime>
+    <size>4833</size>
+    <md5>5a1d8c788d600010cf2025475bd22c3b</md5>
+    <crc32>f2bc0623</crc32>
+    <sha1>887c1171201be09070e244e4a9f24ecc3014af5e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021426</mtime>
+    <size>3634</size>
+    <md5>1e783b40904ae507484be9bd8468fd7e</md5>
+    <crc32>38a7dbc2</crc32>
+    <sha1>bef11cefc3f36d92b1f9fb410758817b64b84fb9</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021463</mtime>
+    <size>3738</size>
+    <md5>c2b11ac341b8b5201f431d37e6a3c77c</md5>
+    <crc32>7b478887</crc32>
+    <sha1>0915b71e0c3ba088c4c2adccd3644e46aa949e2d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021502</mtime>
+    <size>3400</size>
+    <md5>f86f520dfe92a423b8dc2fb00d4deb69</md5>
+    <crc32>1ccaeec1</crc32>
+    <sha1>c7da670b89e8c3d1b8b075ac2c67d5515a00b31c</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021541</mtime>
+    <size>4745</size>
+    <md5>a723e021e3757bce02760a3ff0949472</md5>
+    <crc32>64f3f5d7</crc32>
+    <sha1>8eeba69cf64a013b751a9636af5d6d59e579bd13</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_002994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021579</mtime>
+    <size>3374</size>
+    <md5>8aad9a5199d4af5cb4b61840098de9cd</md5>
+    <crc32>e6352f2f</crc32>
+    <sha1>a6833a64baf417486afe7f75133bdfb89e15c985</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021616</mtime>
+    <size>3968</size>
+    <md5>96f1c7939b25ad5723888b4c767f08c0</md5>
+    <crc32>328f2046</crc32>
+    <sha1>eff8d648544763846c2630d55401f4da96c3b1c3</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021656</mtime>
+    <size>3671</size>
+    <md5>df78ee2a90078558817bb9e12cfc68a1</md5>
+    <crc32>4ecf8634</crc32>
+    <sha1>f8c5dd03473a9fb3fca44baa46e02a0f7aa06c43</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021697</mtime>
+    <size>3873</size>
+    <md5>724525998f78b7262549b881d323bbea</md5>
+    <crc32>2b3cc40f</crc32>
+    <sha1>51f25bbe3c1339a6e90bcce6fa0add6beb3288ff</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021733</mtime>
+    <size>3918</size>
+    <md5>eecd4b2bf20a0cda23ee85e54f64b458</md5>
+    <crc32>e12f81b7</crc32>
+    <sha1>887173bc75daeeda812abdf9cd94dccf4474e97e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021769</mtime>
+    <size>4911</size>
+    <md5>2bfba79ed1da82c29dcf0e5b5289118d</md5>
+    <crc32>d139b978</crc32>
+    <sha1>2527de98bf25733bfbdefaa643ddfcf71ec36c41</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021805</mtime>
+    <size>3994</size>
+    <md5>e8337cd90c299c6a640dfe357b883da8</md5>
+    <crc32>da0d7e89</crc32>
+    <sha1>da7ec3c332362d41fdbccddd6e37067b589783f4</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021848</mtime>
+    <size>4734</size>
+    <md5>039fc87cdad415ae54ff4e66dc4f0c42</md5>
+    <crc32>76a385ee</crc32>
+    <sha1>8e3976eb44063f79bbc51d910db73304c54a7909</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021887</mtime>
+    <size>4764</size>
+    <md5>e344c32ed267298513c09b8d02a3aec5</md5>
+    <crc32>d97550b4</crc32>
+    <sha1>9bc1a45e3f4ed09adf6e2fbefd0b3bd4dab9dc57</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021920</mtime>
+    <size>4303</size>
+    <md5>9a9f62d024b5ff2c24144f225e99e193</md5>
+    <crc32>27a9b15a</crc32>
+    <sha1>01d0e14d0d5da04662699c6225be4934c23ae2fc</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021956</mtime>
+    <size>3881</size>
+    <md5>245cb3c6290ceac6921b45ec56e3102a</md5>
+    <crc32>53db1808</crc32>
+    <sha1>fdd0a6f2313b1a1ededbe3cb8127e399d8aed053</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003654.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486021988</mtime>
+    <size>3913</size>
+    <md5>9bf6cadc9ebfc7904c46c177944bdaa6</md5>
+    <crc32>d4ee86b1</crc32>
+    <sha1>8f6dbb56a173e04136fa43d0e4f38fd5397e3979</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003714.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022026</mtime>
+    <size>4682</size>
+    <md5>cecca1e3e00fb985cf07dc6056a5a72b</md5>
+    <crc32>79b8976b</crc32>
+    <sha1>3a13da469ee99f06affc6ec23e500b07d0f1704d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003774.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022063</mtime>
+    <size>4344</size>
+    <md5>655b50c9584ff2cf7aed116bccb079f1</md5>
+    <crc32>07867b2c</crc32>
+    <sha1>b5896d2a21f8003f0332fe3f0cb4f993ffb04ad4</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003834.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022100</mtime>
+    <size>4563</size>
+    <md5>64ab60d992e5561f8a83ad4e6dba7b29</md5>
+    <crc32>bb495a9a</crc32>
+    <sha1>6f1f244aa5e2b3e495b00d208e6aa34d1b167099</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003894.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022138</mtime>
+    <size>5552</size>
+    <md5>69b0a19aa65f110f89d6eb1e9909cb0f</md5>
+    <crc32>551930b7</crc32>
+    <sha1>61466e1150e4f2f8e72c80ffdc19983f37347b65</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_003954.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022180</mtime>
+    <size>4150</size>
+    <md5>7fa2caecdced3a204f213c916ea52323</md5>
+    <crc32>935af941</crc32>
+    <sha1>5621c49de3d91ffe9e7b377b57e99f31977c8f64</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004014.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022222</mtime>
+    <size>3819</size>
+    <md5>c7a1ffd6e8d6ff7a3f50bd60b5d24c47</md5>
+    <crc32>e924e826</crc32>
+    <sha1>99991f11fc430f5e5a90fe96d39918a17f5d4587</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004074.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022263</mtime>
+    <size>7507</size>
+    <md5>4a689a252d305ae01e5b50b689bbc318</md5>
+    <crc32>d52955b1</crc32>
+    <sha1>ed5809558448da4e2e2c8e7173e8c5b32a79d355</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004134.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022305</mtime>
+    <size>3460</size>
+    <md5>97c277c7b63ade0111805f3b36c58ace</md5>
+    <crc32>7e1a609a</crc32>
+    <sha1>959fa26b0ddeba5479b525f7dc3ff06f90ec5146</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004194.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022347</mtime>
+    <size>4886</size>
+    <md5>6e3ddf375a5bfa4024da245d77b6cd2c</md5>
+    <crc32>5247d95f</crc32>
+    <sha1>cf914a69a6c432280cba1445ea0ebd13e90be15e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004254.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022385</mtime>
+    <size>4483</size>
+    <md5>b92b5753e46a34640765e510ad1e7afd</md5>
+    <crc32>8f2bab38</crc32>
+    <sha1>9a5835ae106eaef64af084846df423eea2eab6cf</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004314.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022421</mtime>
+    <size>4242</size>
+    <md5>d42afab8772910acd84eb6bd7a7b1b87</md5>
+    <crc32>0917ef69</crc32>
+    <sha1>a72e1de96d841ba33cfeebaaf0446649fb45ecbb</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004374.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022456</mtime>
+    <size>3105</size>
+    <md5>04fc16561c8d0b40c1eeb16f3053d06d</md5>
+    <crc32>4569ca8c</crc32>
+    <sha1>8135e980f6d58bd3c207ce0ee176b123dbb544c7</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004434.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022496</mtime>
+    <size>4681</size>
+    <md5>cbcfeb86b555b482fb9b4e39350793f5</md5>
+    <crc32>62b31d1b</crc32>
+    <sha1>6fc8f505e90640276b1873d3f3894ffa762db9d1</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004494.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022533</mtime>
+    <size>3930</size>
+    <md5>767620eefe24039a45d1db9cb4493805</md5>
+    <crc32>5509fb5d</crc32>
+    <sha1>f750d6dc2e0e0de7ca4c8e6898bfcba3e2661650</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004554.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022573</mtime>
+    <size>4734</size>
+    <md5>8588156d15bbf1bdcd8c4a397bd10575</md5>
+    <crc32>5d825b19</crc32>
+    <sha1>87e481a94a1e7f06f947ac4ddf4a35536ce79a0e</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004614.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022614</mtime>
+    <size>5301</size>
+    <md5>81ccde5f727515bb95694cb59722e559</md5>
+    <crc32>9de44eed</crc32>
+    <sha1>b81822a8174174e93a101c3ac9282fe89d561b24</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004674.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022655</mtime>
+    <size>5255</size>
+    <md5>38bffbb900811a629a521b44c5742606</md5>
+    <crc32>13e71065</crc32>
+    <sha1>a19d32724010bc704930a53a2e9fd3bdfa7b34f7</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004734.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022695</mtime>
+    <size>4351</size>
+    <md5>375458d2998d735136e6901b44d7d5af</md5>
+    <crc32>87589e8b</crc32>
+    <sha1>5916bebe306fdafc3e3e409ac4475a8dbfd2673a</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004794.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022739</mtime>
+    <size>4372</size>
+    <md5>cb176b96bc5b0a7674c41f32d67f1d95</md5>
+    <crc32>686785f2</crc32>
+    <sha1>d4a46d3134bea19cb97925635cc7bce916ad55f1</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004854.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022778</mtime>
+    <size>4639</size>
+    <md5>d264bffd677a8a3bbbe09d17c9f603ee</md5>
+    <crc32>c825b1ae</crc32>
+    <sha1>0a70f99e57e4dad21b462693c43f320ff9886960</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004914.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022818</mtime>
+    <size>4229</size>
+    <md5>c5b25e01116e2614d9581e485afa8579</md5>
+    <crc32>db790420</crc32>
+    <sha1>4b307d7ef5e1d6c31c6e0170e6fa8a4d3b76e812</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_004974.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022856</mtime>
+    <size>4645</size>
+    <md5>5c79d64d46b28c76170b33398edc42af</md5>
+    <crc32>3e75b307</crc32>
+    <sha1>49dc56df1632d7ad45af49e3d738c84d0491db80</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005034.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022894</mtime>
+    <size>4470</size>
+    <md5>555c1649e83f222f20005035b7ada852</md5>
+    <crc32>df9a8d0c</crc32>
+    <sha1>1d37f090f330aa278bc9f9dd083bed565e62c2ba</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005094.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022931</mtime>
+    <size>3750</size>
+    <md5>e0f4481b8688369502325ccdbc146de2</md5>
+    <crc32>ccaddcf6</crc32>
+    <sha1>190b5f08c003bfcef9999e5e315db2078d5a3f4a</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005154.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486022973</mtime>
+    <size>4326</size>
+    <md5>05ce985cc989cd3ac66c4b3805cdb961</md5>
+    <crc32>b9ac9acf</crc32>
+    <sha1>403c5852f7e59935bd52d344125805dc9bf61702</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005214.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023019</mtime>
+    <size>4818</size>
+    <md5>1d6570e984e7c71893d6ef62f853ae58</md5>
+    <crc32>4fb4c8f0</crc32>
+    <sha1>70e9b6f708fc9dec004aab4ba14b298655c19c2d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005274.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023061</mtime>
+    <size>3744</size>
+    <md5>87126f9f9d9c8e7633574ed6c0c4bc72</md5>
+    <crc32>deafb180</crc32>
+    <sha1>fa606fd0a6535e787c9e04f4faacd3a23d92a849</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005334.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023100</mtime>
+    <size>4687</size>
+    <md5>bb988fc502ce4d7c4a8527681bdde1d8</md5>
+    <crc32>be600479</crc32>
+    <sha1>c8f594cb4c6956b7421c3dddb3b72abde6476c78</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005394.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023140</mtime>
+    <size>5074</size>
+    <md5>a52aa58c5bcb2b621246017363abb1ef</md5>
+    <crc32>10f8f1cb</crc32>
+    <sha1>aad1036d67b07702303e82be468e8dd21699d0cf</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005454.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023181</mtime>
+    <size>4642</size>
+    <md5>d1d93c620e22772fc3b4f89730550d33</md5>
+    <crc32>3f6b98eb</crc32>
+    <sha1>1cb5f8dd266c8113188d5eb2b535997d26618a94</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005514.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023221</mtime>
+    <size>5063</size>
+    <md5>03e9926dc08d5e6f26e4b27e1efd55ca</md5>
+    <crc32>bb758957</crc32>
+    <sha1>4f7e992f56b97857f6693f3e187148d1c6504beb</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005574.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023265</mtime>
+    <size>4948</size>
+    <md5>c636a6ba32ba6e525cc333c7018343a7</md5>
+    <crc32>bb4865c6</crc32>
+    <sha1>ec03e28e6c564d869ed0d61c76a5f0414971b976</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005634.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023305</mtime>
+    <size>4702</size>
+    <md5>bcd69a4de4fd4e26dcc38eb4e5e73b1e</md5>
+    <crc32>e1a002f9</crc32>
+    <sha1>fffe42bfedf4f9658fddec92c448ab6a6eaf0f1a</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005694.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023351</mtime>
+    <size>4390</size>
+    <md5>5a8e9ed94f7b32a9a5665bad00b82b5e</md5>
+    <crc32>9ec904cf</crc32>
+    <sha1>53490b7ca983c094bcaaccdcb7a9b202fad5da8d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005754.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023393</mtime>
+    <size>4986</size>
+    <md5>260c5b5a976e6da4f87c5401539312c2</md5>
+    <crc32>a2c5ac0e</crc32>
+    <sha1>daa301e6c9260249a26d8dd83785ac1b9b050f6a</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005814.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023430</mtime>
+    <size>5016</size>
+    <md5>3ba6b7847add84cc313a545a561a7cc2</md5>
+    <crc32>f9670ce2</crc32>
+    <sha1>d8ccd70250c818d93530535e9f986b864c72740b</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005874.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023471</mtime>
+    <size>3515</size>
+    <md5>2cea8513621c0d753b4b9d9ab8a68154</md5>
+    <crc32>31a166b3</crc32>
+    <sha1>0131a1c0ab95cff8da597bd3a5f93cca9d0333f1</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005934.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023514</mtime>
+    <size>2877</size>
+    <md5>71a81c0a72b3a480be7b664221b666a6</md5>
+    <crc32>32770b0d</crc32>
+    <sha1>caf905038a003deb4808b0991055c4be2888df93</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_005994.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023561</mtime>
+    <size>4429</size>
+    <md5>0fdc41134053ee22c380367136b5eadc</md5>
+    <crc32>5839544d</crc32>
+    <sha1>179ae12a77bc4749a1d4c6a11e261379be575d0f</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006054.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023609</mtime>
+    <size>5363</size>
+    <md5>a93c4f985ce864832f9144e28106afe9</md5>
+    <crc32>3796e447</crc32>
+    <sha1>288345b58471396107bdb8b957edf4056571dbfe</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006114.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023650</mtime>
+    <size>4951</size>
+    <md5>6edae1279345e02d9417840cf28f0bb0</md5>
+    <crc32>6204b12b</crc32>
+    <sha1>23e5ef1b7dbecc9eb8c400db2b335afa80785295</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006174.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023694</mtime>
+    <size>5091</size>
+    <md5>c01522b7998b68ee84e60a9d9aa355c8</md5>
+    <crc32>96f95eab</crc32>
+    <sha1>dc92dfb1119f656e9636965abaa0228c829f6f25</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006234.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023743</mtime>
+    <size>4212</size>
+    <md5>aa3c4706948d58c547340f462fa7cd9b</md5>
+    <crc32>773891b7</crc32>
+    <sha1>57be3189159b2207e116588042cb871063de1258</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006294.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023788</mtime>
+    <size>5862</size>
+    <md5>93a1018026967771671f6632535be8ee</md5>
+    <crc32>120616ca</crc32>
+    <sha1>fa7e0aee84b409bdea0b16698ae3887efe27d4e4</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006354.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023831</mtime>
+    <size>5816</size>
+    <md5>a120713f40c907e5de338ff006dfbd2d</md5>
+    <crc32>48b9fdcb</crc32>
+    <sha1>758ccbc6b8ae557dfb0243ec7280811770b1608d</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006414.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023873</mtime>
+    <size>4148</size>
+    <md5>57faf1ab438b75629649c7106877f202</md5>
+    <crc32>4fc2c458</crc32>
+    <sha1>7a3390c13ec57778f7153436bd7810cbe5e84689</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006474.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023926</mtime>
+    <size>2138</size>
+    <md5>c65e1c05399d9fe97e4ab44f84c07dfd</md5>
+    <crc32>4f95be61</crc32>
+    <sha1>ba3f05561aca0b928c7937fc1283585b75130d24</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006534.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486023973</mtime>
+    <size>6653</size>
+    <md5>efca548eb8cb4d4eea955ad5da0a85fb</md5>
+    <crc32>3662514c</crc32>
+    <sha1>42446dfb971f8bb5a4e03a81ad50380747d93be9</sha1>
+  </file>
+  <file name="ORWELL1984.thumbs/ORWELL 1984_006594.jpg" source="derivative">
+    <format>Thumbnail</format>
+    <original>ORWELL 1984.avi</original>
+    <mtime>1486024020</mtime>
+    <size>3244</size>
+    <md5>e8a6e4f9ce0793e254ea201a408c190a</md5>
+    <crc32>a761ef41</crc32>
+    <sha1>c925e6124b41dd0a4fd0d6df6dc20bb16141ab9b</sha1>
+  </file>
+  <file name="ORWELL1984_archive.torrent" source="metadata">
+    <btih>f7e2f53fe9fb4f47adbbee69c212f64d8baf052e</btih>
+    <mtime>1596236779</mtime>
+    <size>42622</size>
+    <md5>c5cada7dc4f736c1e8bc3182a2b9c81b</md5>
+    <crc32>e7372cdf</crc32>
+    <sha1>2b184bd0f9448dc488bd9f2829f1bbc91f8af362</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="ORWELL1984_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>24f6eed00532fb8998231d4183902d04</md5>
+  </file>
+  <file name="ORWELL1984_meta.sqlite" source="original">
+    <mtime>1486014418</mtime>
+    <size>9216</size>
+    <md5>d03ce0b46247dd15690afb7eae30cbe1</md5>
+    <crc32>85992ffe</crc32>
+    <sha1>a466f530efc8f120df73817cde7c0025fee7b80d</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="ORWELL1984_meta.xml" source="original">
+    <mtime>1587587572</mtime>
+    <size>11084</size>
+    <format>Metadata</format>
+    <md5>160ac2ddd095dec4233e29f4da20ac49</md5>
+    <crc32>5cd6ccba</crc32>
+    <sha1>9d74b85ed1bd116a1be722474190b2d4a7303ae0</sha1>
+  </file>
+  <file name="ORWELL1984_reviews.xml" source="original">
+    <mtime>1596236766</mtime>
+    <size>1499</size>
+    <format>Metadata</format>
+    <md5>8dcf1b030d57a4decacd1d00577cbfef</md5>
+    <crc32>f002c483</crc32>
+    <sha1>cc28e958d55869569a88ca7440426309938472ab</sha1>
+  </file>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1537067890</mtime>
+    <size>4676</size>
+    <md5>0688b74da82ca6b1c307e0a8f42ddcb2</md5>
+    <crc32>ecbdb461</crc32>
+    <sha1>c0e40fd1a7b85ea862d2bd2c38f78047d6943d60</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+</files>
