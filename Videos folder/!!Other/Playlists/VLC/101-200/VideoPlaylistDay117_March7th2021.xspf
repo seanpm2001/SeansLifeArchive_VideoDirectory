@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/seanpm/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Seasons%201-2/Season%201/Sub/Crunchyroll/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%20Ep.%201-H8CORxz5FKA.mkv</location>
+			<duration>1430020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>
