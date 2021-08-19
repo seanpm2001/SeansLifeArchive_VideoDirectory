@@ -26,8 +26,8 @@
 *.vtt linguist-detectable=true
 *.vtt linguist-documentation=false
 # SVG
-# Experimental
-*.svg linguist-detectable=true
+# Experiment failed on August 18th 2021, taken out as it surpassed 98%
+*.svg linguist-detectable=false
 *.svg linguist-documentation=false
 # INI
 # Experimental, I may have to turn this off
