@@ -1,0 +1,15 @@
+# Start of script
+
+# Linking to the repository this project relies on
+[submodule "VideoLan/VLC"]
+  path = /SeansLifeArchive_VideoDirectory/VLC-Media-Player/
+  url = https://github.com/videolan/vlc
+ 
+# Submodule count: 1
+
+# File info
+# File type: .gitmodules submodule file (*.gitmodules)
+# File version: 1 (Sunday, 2021 September 5th at 8:53 pm)
+# Line count (including blank lines and compiler line): 16
+
+# End of script
