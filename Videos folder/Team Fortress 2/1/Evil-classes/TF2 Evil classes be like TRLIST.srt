@@ -1,0 +1,9 @@
+00:00 Scout
+00:04 Soldier
+00:09 Pyro
+00:11 Demoman
+00:16 Heavy
+00:19 Engineer
+00:23 Medic
+00:31 Sniper
+00:38 Spy
