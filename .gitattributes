@@ -8,16 +8,25 @@
 # Makefile (duplicate, as it is already detected)
 *.mk linguist-detectable=true
 *.mk linguist-documentation=false
+*.mak linguist-detectable=true
+*.mak linguist-documentation=false
+*.make linguist-detectable=true
+*.make linguist-documentation=false
 # C++ (duplicate, as it is already detected)
 *.cpp linguist-detectable=true
 *.cpp linguist-documentation=false
+*.cxx linguist-detectable=true
+*.cxx linguist-documentation=false
+*.cc linguist-detectable=true
+*.cc linguist-documentation=false
 # Shell (duplicate, as it is already detected)
 *.sh linguist-detectable=true
 *.sh linguist-documentation=false
 # YAML
-*.yml linguist-detectable=true
+# Temporarily turning off until C++ gains a 90+% majority
+*.yml linguist-detectable=false
 *.yml linguist-documentation=false
-*.yaml linguist-detectable=true
+*.yaml linguist-detectable=false
 *.yaml linguist-documentation=false
 # ReStructuredText
 *.rst linguist-detectable=true
@@ -47,9 +56,15 @@
 # Do not include, as it would become the 100% dominant language and would hide all the other languages as "other"
 *.md linguist-detectable=false
 *.md linguist-documentation=false
+*.mkd linguist-detectable=false
+*.mkd linguist-documentation=false
+*.mdown linguist-detectable=false
+*.mdown linguist-documentation=false
+*.markdown linguist-detectable=false
+*.markdown linguist-documentation=false
 # End of linguist script
 # File info
 # File type: .gitattributes file (*.gitattributes)
-# File version: 1 (Wednesday, August 18th 2021 at 8:22 pm)
-# Line count (including blank lines and compiler line): 56
+# File version: 2 (Wednesday, 2021 December 15th at 3:54 pm)
+# Line count (including blank lines and compiler line): 71
 # End of script
