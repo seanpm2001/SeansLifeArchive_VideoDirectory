@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Good%20Morning%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!-%20Legend%20of%20Crimson-jJfwdEX_FBw.webm</location>
+			<duration>159300</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Cursed%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!-o5SEKfpYiyo.mkv</location>
+			<duration>154020</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Kazuma%20vs%20Darkness%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%202-3ol1f02xCas.mp4</location>
+			<duration>160218</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%202%20-%20Opening%20_%20Tomorrow-vdcddjV0l5o.mkv</location>
+			<duration>100501</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Alligator%20Attack%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!-5lda-ZHULhQ.mp4</location>
+			<duration>148957</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Crimson%20Demon%20Duel%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!%202-w6dfuydA-1o.webm</location>
+			<duration>153500</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Crunchyroll/Kazuma&#39;s%20Honorable%20Duel%20_%20KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!-HD27GpD_594.mkv</location>
+			<duration>133781</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Other/Aqua%20-%20Please...%20I&#39;ll%20work%20hard...%20Anything%20but%20my%20recovery%20magic...-jEe32t52CAw.webm</location>
+			<duration>40981</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///home/sean/Desktop/JournalingUbuntu/Milestone%205/Extras/Videos%20folder/Anime/KONOSUBA%20-God&#39;s%20blessing%20on%20this%20wonderful%20world!/Clips/Other/Aqua%20crying%20for%20395%20seconds%20straight-PHlo5yiXAyk.mkv</location>
+			<duration>396860</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+	</extension>
+</playlist>
